@@ -1,0 +1,65 @@
+body{
+margin: auto;
+background-color:#00ffcc;
+  }
+select{
+  text-align: center;
+  height: auto;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #eee;
+  margin: auto;
+}
+section{
+height: auto;
+border-style: solid;
+border-width: 2px;
+border-color: currentColor;
+margin: 5px 5px;
+
+
+}
+img{
+  width: 80%;
+}
+.touxiangtu{
+  border-radius: 50%
+}
+nav{
+display: inline-block;
+height: auto;
+width: auto;
+line-height: 30px;
+font-size: 15px;
+
+}
+
+div p{
+  font-size: 22px;
+  color: red;
+}
+div text{
+  color: black;
+  font-size: 18px;
+}
+.aaa{
+    text-align: center;
+}
+.xingming{
+  text-align: center;
+  }
+.touxiang{
+  text-align: center;
+  }
+.jianjie{
+  text-align: center;
+    }
+.xuexiao{
+  text-align: center;
+  }
+.jiaxiang{
+  text-align: center;
+}
+.jineng{
+  text-align: center;
+  }
